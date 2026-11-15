@@ -1,0 +1,14 @@
+Mini statement for 100200300 (last 10)
+  DR 300
+  CR 400
+  CR 500
+  DR 600
+  CR 700
+  CR 800
+  DR 900
+  CR 1000
+  CR 1100
+  DR 1200
+  Balance: 6800
+shift   : 128.426 ms (sum 10)
+circular: 19.4482 ms (sum 10)

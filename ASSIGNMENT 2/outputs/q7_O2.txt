@@ -1,0 +1,6 @@
+last 10 of 25 identical: yes (oldest 16, newest 25)
+K=10	shift 12.191 ms	circular 2.17912 ms	speed-up 5.59447x	same contents: yes
+K=50	shift 22.2144 ms	circular 3.1328 ms	speed-up 7.0909x	same contents: yes
+K=500	shift 65.9934 ms	circular 2.18925 ms	speed-up 30.1443x	same contents: yes
+K=5000	shift 49.5471 ms	circular 0.216522 ms	speed-up 228.832x	same contents: yes
+sizeof: shift<50>=408 circular<50>=408 bytes

@@ -1,0 +1,9 @@
+Asha: Seat 1
+  issued so far: 1
+Bala: Seat 2
+  issued so far: 2
+Chitra: Seat 3
+  issued so far: 3
+Dev: Waiting
+  issued so far: 3
+Final issued: 3 of 3

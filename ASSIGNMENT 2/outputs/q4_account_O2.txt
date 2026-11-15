@@ -1,0 +1,2 @@
+shift   : 36.1872 ms (sum 10)
+circular: 17.7862 ms (sum 10)

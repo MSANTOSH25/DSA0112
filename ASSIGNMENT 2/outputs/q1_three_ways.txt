@@ -1,0 +1,9 @@
+Prediction: byValue -> 45000, byRef -> 40500, byPtr -> 40500
+  inside byValue   : 40500
+stored fee after byValue: 45000
+stored fee after byRef  : 40500
+stored fee after byPtr  : 40500
+stacked in place : 25819
+stacked by return: 25819
+const-ref preview (fee unchanged): 40500 (stored 45000)
+sizeof(long long)=8 sizeof(Student)=4040 sizeof(pointer)=8

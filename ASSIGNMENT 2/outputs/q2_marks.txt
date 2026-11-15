@@ -1,0 +1,7 @@
+after +2 moderation: 56 78 93 64 70 
+copy changed, array max still 93
+after index and pointer versions: 95
+capacity before: 3
+capacity after : 6
+buffer moved   : yes
+by index still valid: 91

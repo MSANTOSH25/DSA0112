@@ -1,0 +1,7 @@
+Prediction: 1->int, 2->int, 3->double(float promoted), 4->double, 5->Parcel, 6->double
+1 charge(2500)            = [int grams] 125
+2 charge(2)               = [int grams] 0.1
+3 charge(2.0f)            = [double,bool,bool] 100
+4 charge(2.5, true)       = [double,bool,bool] 165
+5 charge(Parcel{3,1,1})   = [Parcel] 210
+6 charge(1.2, false, true)= [double,bool,bool] 80
