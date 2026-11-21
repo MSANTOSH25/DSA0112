@@ -1,0 +1,10 @@
+Created event (2 x 3)
+O X O 
+O O O 
+Created event (1 x 2)
+Closed event; released 2 seat cells
+Created event (1 x 2)
+Closed event; released 2 seat cells
+Created event (0 x 5)
+Closed event; released 0 seat cells
+Closed event; released 6 seat cells
