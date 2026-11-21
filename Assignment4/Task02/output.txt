@@ -1,0 +1,2 @@
+Kavya ID:201 Phone:9876543210 Programme:BSc CS CGPA:8.7 Department:CSE Salary:25000
+Arun ID:202 Phone:9123456780 Programme:MSc AI CGPA:9.1 Fellowship:18000

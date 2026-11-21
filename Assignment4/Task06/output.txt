@@ -1,0 +1,17 @@
+Bicycle BI-101 daily rate Rs 100 [Available]
+TwoWheeler TW-202 daily rate Rs 300 [Available]
+Car CA-303 daily rate Rs 1500 [Available]
+ElectricCar EV-404 daily rate Rs 1800 [Available]
+ElectricBus EB-505 daily rate Rs 3500 [Available]
+Rented BI-101
+Rented TW-202
+Rented CA-303
+Rented EV-404
+Rented EB-505
+Return CA-303 with 2 late days: Rs 2000
+Return EB-505: Rs 3950
+Bicycle BI-101 daily rate Rs 100 [Rented]
+TwoWheeler TW-202 daily rate Rs 300 [Rented]
+Car CA-303 daily rate Rs 1500 [Available]
+ElectricCar EV-404 daily rate Rs 1800 [Rented]
+ElectricBus EB-505 daily rate Rs 3500 [Available]

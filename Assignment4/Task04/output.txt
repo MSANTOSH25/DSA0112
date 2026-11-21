@@ -1,0 +1,8 @@
+3.5
+4
+Virtual call: 4
+Sliced object: 3.5
+Account destroyed
+Account destroyed
+SeniorAccount destroyed
+Account destroyed
