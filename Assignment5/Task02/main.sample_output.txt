@@ -1,0 +1,1 @@
+approved 4000023662destroyed claim23662approved audit: exceeds cover23662destroyed claim23662claim rejected: exceeds cover23662approved destroyed claim23662error: negative amount23662caught bad_alloc23662
